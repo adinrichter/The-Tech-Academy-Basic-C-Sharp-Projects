@@ -1,0 +1,16 @@
+Name: Adin
+Course: C# and .NET
+Page Number: 163
+Help: Not at the moment
+Positive: I really like using Visual Studio, it was a bit hard to get used to, but it's really nice
+Feedback: Not at the moment
+Hours Studied: 5
+
+Name: Bob
+Course: Python
+Page Number: 231
+Help: My Python compiler isn't working
+Positive: I like getting Python errors, it makes me feel alive
+Feedback: I need some water
+Hours Studied: 0.003
+

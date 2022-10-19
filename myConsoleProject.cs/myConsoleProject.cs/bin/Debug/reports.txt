@@ -1,8 +1,0 @@
-Name: Adin Richter
-Course: C# and .NET
-Page Number: 163
-Help: Not at the moment
-Positive: I really like using Visual Studio with GitHub Copilot
-Feedback: Not at the moment
-Hours Studied: 5
-
