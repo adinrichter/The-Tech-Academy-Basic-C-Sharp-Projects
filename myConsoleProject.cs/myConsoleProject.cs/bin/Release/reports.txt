@@ -1,16 +1,16 @@
-Name: Adin
-Course: C# and .NET
-Page Number: 163
-Help: Not at the moment
-Positive: I really like using Visual Studio, it was a bit hard to get used to, but it's really nice
-Feedback: Not at the moment
-Hours Studied: 5
+Name: Adin Richter
+Course Name: C# and .NET
+Page Number: 182
+Does the user need help: False
+Positive: I really like using Visual Studio to debug, and C# is a super fun language
+Feedback: No
+Hours Studied: 4
 
-Name: Bob
-Course: Python
-Page Number: 231
-Help: My Python compiler isn't working
-Positive: I like getting Python errors, it makes me feel alive
-Feedback: I need some water
-Hours Studied: 0.003
+Name: Adin Richter
+Course Name: C# and .Net
+Page Number: 182
+Does the user need help: False
+Positive: I really like working with C# and debugging in Visual Studio
+Feedback: Not currently
+Hours Studied: 4
 
