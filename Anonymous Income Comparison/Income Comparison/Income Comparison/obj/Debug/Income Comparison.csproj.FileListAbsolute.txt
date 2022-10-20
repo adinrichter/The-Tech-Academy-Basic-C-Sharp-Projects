@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\bin\Debug\Income Comparison.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\bin\Debug\Income Comparison.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\bin\Debug\Income Comparison.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\obj\Debug\Income Comparison.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\Income Comparison\Income Comparison\obj\Debug\Income Comparison.pdb
