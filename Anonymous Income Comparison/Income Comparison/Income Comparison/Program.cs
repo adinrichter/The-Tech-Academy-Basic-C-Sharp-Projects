@@ -31,6 +31,8 @@ namespace Income_Comparison
             Console.WriteLine("\nAnnual salary of Person 2:");
             int annualSalary2 = Convert.ToInt32(hourlyRate2) * Convert.ToInt32(hoursWorked2) * 48;
             Console.WriteLine("$" + annualSalary2.ToString("N", new CultureInfo("en-US")) + "/year");
+
+            // displays whether person 1 makes more, than person 2
             Console.WriteLine("\nDoes Person 1 make more money than Person 2?");
             bool moreMoney = annualSalary1 > annualSalary2;
             Console.WriteLine(moreMoney ? "Yes" : "No");
