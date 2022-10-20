@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\obj\Debug\Car Insurance.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\obj\Debug\Car Insurance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\obj\Debug\Car Insurance.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\bin\Debug\Car Insurance.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\bin\Debug\Car Insurance.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\bin\Debug\Car Insurance.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\obj\Debug\Car Insurance.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Calculator\Car Insurance\Car Insurance\obj\Debug\Car Insurance.pdb
