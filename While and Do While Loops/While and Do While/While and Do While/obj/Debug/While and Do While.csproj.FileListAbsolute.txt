@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\bin\Debug\While and Do While.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\bin\Debug\While and Do While.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\bin\Debug\While and Do While.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\obj\Debug\While and Do While.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\obj\Debug\While and Do While.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\obj\Debug\While and Do While.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\obj\Debug\While and Do While.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Anonymous Income Comparison\While and Do While\While and Do While\obj\Debug\While and Do While.pdb
