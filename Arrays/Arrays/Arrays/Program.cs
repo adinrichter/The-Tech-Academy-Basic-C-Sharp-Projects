@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Arrays
 {
@@ -24,7 +25,7 @@ namespace Arrays
             names[3] = "Jane";
             names[4] = "Joe";
 
-            // create an array of integers and populate values
+            // create a array of integers and populate values
             int[] ages = new int[5];
             ages[0] = 21;
             ages[1] = 18;
@@ -32,6 +33,13 @@ namespace Arrays
             ages[3] = 19;
             ages[4] = 22;
 
+            // create a list of strings and populate values
+            List<string> hobbies = new List<string>();
+            hobbies.Add("Fishing");
+            hobbies.Add("Hiking");
+            hobbies.Add("Archery");
+            hobbies.Add("Rock Climbing");
+            hobbies.Add("Offroading");
 
             // prompts user to get a value from the string name array
             do
@@ -65,6 +73,28 @@ namespace Arrays
                     Console.WriteLine("\nEnter a number between 1 and 5 to get an age from the integer array: ");
                     Global.index = Convert.ToInt32(Console.ReadLine()) - 1;
                     Console.WriteLine("The age at index " + (Global.index + 1) + " is " + ages[Global.index]);
+                    interaction = false;
+                }
+                catch (IndexOutOfRangeException)
+                {
+                    Console.WriteLine("The array does not contain an index of " + (Global.index + 1) + ".\n");
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid character input.\n");
+                }
+            }
+            while (interaction == true);
+
+            // prompts user to get a value from the string list
+            do
+            {
+                interaction = true;
+                try
+                {
+                    Console.WriteLine("\nEnter a number between 1 and 5 to get a hobby from the string list: ");
+                    Global.index = Convert.ToInt32(Console.ReadLine()) - 1;
+                    Console.WriteLine("The hobby at index " + (Global.index + 1) + " is " + hobbies[Global.index]);
                     interaction = false;
                 }
                 catch (IndexOutOfRangeException)

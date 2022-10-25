@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\bin\Debug\SuperKonsole.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\bin\Debug\SuperKonsole.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\bin\Debug\SuperKonsole.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\obj\Debug\SuperKonsole.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\obj\Debug\SuperKonsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\obj\Debug\SuperKonsole.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\obj\Debug\SuperKonsole.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Console App\SuperKonsole\SuperKonsole\obj\Debug\SuperKonsole.pdb
