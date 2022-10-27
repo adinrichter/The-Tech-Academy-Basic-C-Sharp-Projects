@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\bin\Debug\Strings and Integers.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Strings and Integers\Strings and Integers\Strings and Integers\obj\Debug\Strings and Integers.pdb
