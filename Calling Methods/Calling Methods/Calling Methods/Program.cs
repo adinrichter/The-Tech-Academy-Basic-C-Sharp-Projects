@@ -42,16 +42,22 @@ namespace Calling_Methods
         {
             public static float Double(float number)
             {
+                // returns double the given number
                 return number * 2;
             }
             
             public static float Halve(float number)
             {
+                // returns half the given number
                 return number / 2;
             }
             
             public static float ApproxInverseSQRT(float number)
             {
+                // aliases the number to an integer to compute the approximation of log_2(x)
+                // computes an approximation of log_2(1/sqrt(x)) = -1/2 * log_2(x)
+                // converts back to a float to approximate the base 2 exponential
+                // refines the approximation using Newton's method
                 float threehalfs = 0.5f * number;
                 int i = BitConverter.ToInt32(BitConverter.GetBytes(number), 0);
                 i = 0x5f3759df - (i >> 1);
