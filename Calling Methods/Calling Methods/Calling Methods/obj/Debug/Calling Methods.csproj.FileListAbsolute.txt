@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\bin\Debug\Calling Methods.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\bin\Debug\Calling Methods.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\bin\Debug\Calling Methods.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\obj\Debug\Calling Methods.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\obj\Debug\Calling Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\obj\Debug\Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\obj\Debug\Calling Methods.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Calling Methods\Calling Methods\Calling Methods\obj\Debug\Calling Methods.pdb
