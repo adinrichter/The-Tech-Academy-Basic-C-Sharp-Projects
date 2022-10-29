@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\bin\Debug\Main Method.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\bin\Debug\Main Method.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\bin\Debug\Main Method.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\obj\Debug\Main Method.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\obj\Debug\Main Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\obj\Debug\Main Method.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\obj\Debug\Main Method.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Main Method\Main Method\Main Method\obj\Debug\Main Method.pdb
