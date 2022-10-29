@@ -10,7 +10,7 @@ namespace Main_Method
     {
         static void Main()
         {
-            // calls the different methods with different functions based on input type
+            // calls the different methods with different parameters
             Console.WriteLine(Math.Operate(8));
             Console.WriteLine(Math.Operate(8.0m));
             Console.WriteLine(Math.Operate("8"));
