@@ -6,21 +6,18 @@ using System.Threading.Tasks;
 
 namespace Blackjack
 {
-    internal class Program
+    class Program
     {
         static void Main()
         {
             Deck deck = new Deck();
-            int timesShuffled;
-            deck = Shuffle(deck, out timesShuffled, 3);
+            deck.Shuffle(3);
+            
             foreach (Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
-            Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("Times shuffled: {0}", timesShuffled);
-
-            Console.ReadLine();
+            Console.ReadLine;
         }
         public static Deck Shuffle(Deck deck, out int timesShuffled, int times = 1)
         {

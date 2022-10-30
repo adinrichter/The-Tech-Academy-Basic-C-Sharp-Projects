@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\bin\Debug\Methods and Objects.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\bin\Debug\Methods and Objects.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\bin\Debug\Methods and Objects.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Methods and Objects\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.pdb
