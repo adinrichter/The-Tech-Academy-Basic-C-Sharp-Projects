@@ -10,14 +10,12 @@ namespace Blackjack
     {
         static void Main()
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            Blackjack game = new Blackjack();
+            game.Players = new List<string>() { "Jessee", "Bill", "Joe" };
+            game.ListPlayers();
+            Console.ReadLine();
+
             
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.ReadLine;
         }
         public static Deck Shuffle(Deck deck, out int timesShuffled, int times = 1)
         {
