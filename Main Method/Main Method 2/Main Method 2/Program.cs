@@ -10,11 +10,14 @@ namespace Main_Method_2
     {
         static void Main()
         {
+            Console.WriteLine("Please enter a number: ");
+            float num = Convert.ToSingle(Console.ReadLine());
+            Console.WriteLine("Please enter an exponent: ");
+            float exp = Convert.ToSingle(Console.ReadLine());
             // the exponent function returns the number squared by default
-            Console.WriteLine("20 squared is: " + Math.Exponent(20f));
+            Console.WriteLine(num + " squared is: " + Math.Exponent(num));
             // the exponent function returns the any desired exponent if given in the argument
-            Console.WriteLine("20 cubed is: " + Math.Exponent(20f, 3));
-            Console.WriteLine("20 to the power 6 is: " + Math.Exponent(20f, 6));
+            Console.WriteLine(num + " to the power " + exp + " is: " + Math.Exponent(num, exp));
             Console.ReadLine();
         }
         public class Math
