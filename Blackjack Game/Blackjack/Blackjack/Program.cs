@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Blackjack 
 {
     class Program
     {
         static void Main()
         {
             Blackjack game = new Blackjack();
-            game.Players = new List<string>() { "Jessee", "Bill", "Joe" };
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             game.ListPlayers();
             Console.ReadLine();
 
