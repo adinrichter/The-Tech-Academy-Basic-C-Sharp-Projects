@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Blackjack
 {
-    public class Blackjack : Game
+    public class Blackjack : Game, IQuit
     {
         public override void Play()
         {
@@ -16,6 +17,10 @@ namespace Blackjack
         {
             Console.WriteLine("Blackjack players: ");
             base.ListPlayers();
+        }
+        public void IQuit(Player player);
+        {
+            throw new NotImplementedException;
         }
     }
 }

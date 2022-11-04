@@ -10,13 +10,15 @@ namespace Abstract_Classes
     {
         static void Main()
         {
-            // instantiates employee class and gives it a name
-            Employee employee = new Employee();
-            employee.FirstName = "Sample";
-            employee.LastName = "Student";
+            // instantiates employee class and gives it a name, then calls the quit method on it
+            Employee employee = new Employee() { FirstName = "Joe", LastName = "Wilson" };
+            employee.Quit();
 
-            // calls the sayname method to return the name
-            employee.SayName();
+            // instantiates a class of quitter from the IQuittable interface and calls the quit method on it
+            Quitter quitter = new Quitter();
+            quitter.Quit();
+
+            // uses readline to keep the program open for viewing
             Console.ReadLine();
         }
         public abstract class Person
@@ -25,15 +27,25 @@ namespace Abstract_Classes
             public string LastName { get; set; }
             public abstract void SayName();
         }
-        public class Employee : Person
+        public class Employee : Person, IQuittable
         {
             // overrides the sayname method in the person class and returns the name
             public override void SayName()
             {
                 Console.WriteLine("Name: " + FirstName + " " + LastName);
             }
+            public void Quit()
+            {
+                Console.WriteLine("I, " + FirstName + " " + LastName + ", quit!");
+            }
         }
-
+        public class Quitter : IQuittable
+        {
+            public void Quit()
+            {
+                Console.WriteLine("I quit!");
+            }
+        }
     }
 }
 
