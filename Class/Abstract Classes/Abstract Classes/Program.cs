@@ -10,14 +10,15 @@ namespace Abstract_Classes
     {
         static void Main()
         {
-            // instantiates employee class and gives it a name, then calls the quit method on it
-            Employee employee = new Employee() { FirstName = "Joe", LastName = "Wilson" };
-            employee.Quit();
+            // instantiates the employee class a couple times
+            Employee Joe = new Employee() { FirstName = "Joe", LastName = "Wilson", ID = 10112 };
+            Employee Jonathan = new Employee() { FirstName = "Jonathan", LastName = "Smith", ID = 10112 };
+            Employee Alexander = new Employee() { FirstName = "Alexander", LastName = "Michaels", ID = 39825 };
 
-            // instantiates a class of quitter from the IQuittable interface and calls the quit method on it
-            Quitter quitter = new Quitter();
-            quitter.Quit();
-
+            // uses the overload operator to compare two employees
+            Console.WriteLine(Joe == Jonathan);
+            Console.WriteLine(Joe == Alexander);
+            
             // uses readline to keep the program open for viewing
             Console.ReadLine();
         }
@@ -27,23 +28,32 @@ namespace Abstract_Classes
             public string LastName { get; set; }
             public abstract void SayName();
         }
-        public class Employee : Person, IQuittable
+        public class Employee : Person
         {
             // overrides the sayname method in the person class and returns the name
             public override void SayName()
             {
                 Console.WriteLine("Name: " + FirstName + " " + LastName);
             }
-            public void Quit()
-            {
-                Console.WriteLine("I, " + FirstName + " " + LastName + ", quit!");
+            public int ID { get; set; }
+
+            // overrides the == and != operators to compare 2 employees id numbers
+            public static bool operator == (Employee employee1, Employee employee2) {
+                bool status = false;
+                if (employee1.ID == employee2.ID)
+                {
+                    status = true;
+                }
+                return status;
             }
-        }
-        public class Quitter : IQuittable
-        {
-            public void Quit()
+            public static bool operator !=(Employee employee1, Employee employee2)
             {
-                Console.WriteLine("I quit!");
+                bool status = false;
+                if (employee1.ID != employee2.ID)
+                {
+                    status = true;
+                }
+                return status;
             }
         }
     }

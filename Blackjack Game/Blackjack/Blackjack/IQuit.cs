@@ -9,6 +9,6 @@ namespace Blackjack
 {
     interface IQuit
     {
-        void IQuit(Player player);
+        void Quit(Player player);
     }
-}
+}   

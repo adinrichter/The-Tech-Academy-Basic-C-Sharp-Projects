@@ -18,9 +18,9 @@ namespace Blackjack
             Console.WriteLine("Blackjack players: ");
             base.ListPlayers();
         }
-        public void IQuit(Player player);
+        public void Quit(Player player)
         {
-            throw new NotImplementedException;
+            throw new NotImplementedException();
         }
     }
 }
