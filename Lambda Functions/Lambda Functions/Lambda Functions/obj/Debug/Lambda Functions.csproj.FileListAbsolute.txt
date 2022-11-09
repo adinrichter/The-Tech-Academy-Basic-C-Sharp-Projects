@@ -1,0 +1,8 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\bin\Debug\Lambda Functions.exe.config
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\bin\Debug\Lambda Functions.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\bin\Debug\Lambda Functions.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\obj\Debug\Lambda Functions.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\obj\Debug\Lambda Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\obj\Debug\Lambda Functions.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\obj\Debug\Lambda Functions.exe
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Lambda Functions\Lambda Functions\Lambda Functions\obj\Debug\Lambda Functions.pdb
