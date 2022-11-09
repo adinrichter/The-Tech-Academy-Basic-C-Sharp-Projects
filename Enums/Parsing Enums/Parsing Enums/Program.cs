@@ -10,28 +10,19 @@ namespace Parsing_Enums
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Please enter a day of the week: ");
             do
             {
-                Console.WriteLine("Please enter the current day of the week: ");
                 try
                 {
-                    int no = Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine("Must be a day of the week.");
+                    Days day = (Days)Enum.Parse(typeof(Days), Console.ReadLine().ToLower());
+                    Console.WriteLine("Thank you, goodbye.");
+                    Console.ReadLine();
+                    break;
                 }
                 catch
                 {
-                    try
-                    {
-                        Days day = (Days)Enum.Parse(typeof(Days), Console.ReadLine().ToLower());
-                        Console.WriteLine("Thank you, goodbye.");
-                        Console.ReadLine();
-                        break;
-                    }
-                    catch
-                    {
-                        Console.WriteLine("Please enter an actual day of the week.\n");
-                    }
+                    Console.WriteLine("Please enter an actual day of the week.\n");
                 }
             } while (true);
 
