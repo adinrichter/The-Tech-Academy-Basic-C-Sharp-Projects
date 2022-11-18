@@ -9,10 +9,16 @@ namespace Blackjack
 {
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
+        private List<Player> _players = new List<Player>();
+
+        public List<Player> Players { get { return _players; } set { _players = value; } }
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
+
         public string Name { get; set; }
         public string Dealer { get; set; }
 
+     
         public abstract void Play();
         
         public virtual void ListPlayers()
