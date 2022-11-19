@@ -5,7 +5,7 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino
 {
     interface IQuit
     {

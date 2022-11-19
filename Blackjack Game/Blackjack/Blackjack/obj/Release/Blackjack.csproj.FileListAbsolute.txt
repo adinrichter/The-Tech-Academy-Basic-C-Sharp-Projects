@@ -1,0 +1,3 @@
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\obj\Release\Blackjack.csproj.AssemblyReference.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\obj\Release\Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\obj\Release\Blackjack.csproj.CoreCompileInputs.cache

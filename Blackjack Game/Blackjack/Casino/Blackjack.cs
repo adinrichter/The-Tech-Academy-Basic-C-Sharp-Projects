@@ -5,9 +5,9 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino.Blackjack
 {
-    public class Blackjack : Game, IQuit
+    public class BlackjackGame : Game
     {
         public BlackjackDealer Dealer { get; set; }
         
@@ -22,7 +22,7 @@ namespace Blackjack
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
-            Console.WriteLine("Place your bet:");
+            Console.WriteLine("Place your bet, you have: {0}:", Players[0].Pot);
 
             foreach (Player player in Players)
             {
@@ -165,8 +165,9 @@ namespace Blackjack
                     Console.WriteLine("Dealer wins {0}", Bets[player]);
                     Dealer.Pot += Bets[player];
                 }
+                Console.WriteLine("{0}'s balance: {1}, Dealer's balance: {2}", player.Name, player.Pot, Dealer.Pot);
                 Console.WriteLine("Play again? type (y) for yes, anything else for no.");
-                bool answer = Console.ReadLine().ToLower() == "yes" ? true : false;
+                bool answer = Console.ReadLine().ToLower() == "y" ? true : false;
                 if (answer)
                 {
                     player.isPlaying = true;
@@ -181,10 +182,6 @@ namespace Blackjack
         {
             Console.WriteLine("Blackjack players: ");
             base.ListPlayers();
-        }
-        public void Quit(Player player)
-        {
-            throw new NotImplementedException();
         }
     }
 }

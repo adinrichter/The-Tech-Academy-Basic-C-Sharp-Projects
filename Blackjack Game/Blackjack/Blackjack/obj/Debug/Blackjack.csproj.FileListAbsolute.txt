@@ -6,3 +6,6 @@ C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Bl
 C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
 C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\obj\Debug\Blackjack.exe
 C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\bin\Debug\Casino.dll
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\bin\Debug\Casino.pdb
+C:\Users\Programming\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Blackjack Game\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CopyComplete

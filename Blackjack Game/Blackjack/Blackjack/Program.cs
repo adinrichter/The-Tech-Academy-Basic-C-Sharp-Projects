@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.Blackjack;
 
 namespace Blackjack 
 {
@@ -39,9 +37,13 @@ namespace Blackjack
 
             if (ready)
             {
-                Console.WriteLine("Let's play!");
                 Player player = new Player(Global.name, Global.pot);
-                Game game = new Blackjack();
+                player.ID = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"..\..\logs\logs.txt", true))
+                {
+                    file.WriteLine(player.ID);
+                }
+                Game game = new BlackjackGame();
                 game += player;
                 player.isPlaying = true;
                 while (player.isPlaying && player.Pot > 0)

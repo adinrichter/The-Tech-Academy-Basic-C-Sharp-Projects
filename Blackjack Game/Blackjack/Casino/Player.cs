@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blackjack
+namespace Casino
 {
     public class Player
     {
@@ -20,7 +20,8 @@ namespace Blackjack
         public int Pot { get; set; }
         public string Name { get; set; }
         public bool isPlaying { get; set; }
-        public bool Stay { get; set; } 
+        public bool Stay { get; set; }
+        public Guid ID { get; set; }
         public bool Bet(int amount)
         {
             if (Pot - amount < 0)
