@@ -22,15 +22,25 @@ namespace Casino.Blackjack
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
-            Console.WriteLine("Place your bet, you have: {0}:", Players[0].Pot);
-
+ 
             foreach (Player player in Players)
             {
-                int bet = Convert.ToInt32(Console.ReadLine());
+                bool validAnswer = false;
+                int bet = 0;
+                while (!validAnswer)
+                {
+                    Console.WriteLine("Place your bet, you have: {0}:", Players[0].Pot);
+                    validAnswer = int.TryParse(Console.ReadLine(), out bet);
+                }
+                if (bet < 0)
+                {
+                    throw new FraudException("Invalid entry. You have been removed from the game.");
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
                     return;
+
                 }
                 Bets[player] = bet;
             }
