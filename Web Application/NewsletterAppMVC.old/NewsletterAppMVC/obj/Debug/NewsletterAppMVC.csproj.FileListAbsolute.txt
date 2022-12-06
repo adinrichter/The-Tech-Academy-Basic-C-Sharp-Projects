@@ -1,0 +1,2 @@
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.AssemblyReference.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Web Application\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
