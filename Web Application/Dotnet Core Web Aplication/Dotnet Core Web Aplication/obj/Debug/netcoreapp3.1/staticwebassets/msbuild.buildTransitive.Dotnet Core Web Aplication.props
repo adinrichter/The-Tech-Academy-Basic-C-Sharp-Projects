@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dotnet Core Web Aplication.props" />
+</Project>

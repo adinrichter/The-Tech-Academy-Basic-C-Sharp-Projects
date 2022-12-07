@@ -1,0 +1,13 @@
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EF Student DB.exe.config
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EF Student DB.exe
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EF Student DB.pdb
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EntityFramework.dll
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EntityFramework.xml
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\obj\Debug\EF Student DB.csproj.AssemblyReference.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\obj\Debug\EF Student DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\obj\Debug\EF Student DB.csproj.CoreCompileInputs.cache
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\obj\Debug\EF Student DB.csproj.CopyComplete
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\obj\Debug\EF Student DB.exe
+C:\Users\Adin\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\.NET Core Console App\EF Student DB\EF Student DB\obj\Debug\EF Student DB.pdb
